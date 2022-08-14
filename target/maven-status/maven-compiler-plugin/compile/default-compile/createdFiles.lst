@@ -1,0 +1,8 @@
+beer\ingredients\Yeast.class
+Main.class
+beer\ingredients\Hops.class
+beer\ingredients\Ingredients.class
+beer\QualityOfBeerFoam.class
+beer\ingredients\Water.class
+alcoholic\Alcoholic.class
+beer\Beer.class
